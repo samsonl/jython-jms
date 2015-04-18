@@ -1,0 +1,1 @@
+Mostly for my own amusment, performance and flexability will be the goals.
